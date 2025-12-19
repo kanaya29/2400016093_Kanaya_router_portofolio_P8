@@ -29,7 +29,7 @@ export default function Projects() {
   ];
 
   return (
-    <section className="h-20 item-center bg-gray-50 px-10 pt-32">
+    <section className="min-h-screen item-center bg-gray-50 px-10 pt-32">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-4xl font-bold text-center mb-14">Project Saya</h2>
 
